@@ -107,11 +107,11 @@ let history=window.history.length;
 let back= document.getElementById("back");
 back.innerHTML= history;
 
-window.alert("hey love");
+// window.alert("hey love");
 
-window.confirm("hello");
-window.location.href="https://www.instagram.com";
+// window.confirm("hello");
+// window.location.href="https://www.instagram.com";
 
-window.location.replace("https://www.twitter.com");
+// window.location.replace("https://www.twitter.com");
 
 
