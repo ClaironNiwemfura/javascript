@@ -1,10 +1,10 @@
 // console.log("clairon");
 // // document.getElementById("hash");
 // console.log(document.getElementById("hash"));
-// console.log(document.getElementById("test"));
+console.log(document.getElementById("test"));
 
 
-// console.log(document.getElementById("link").id);
+console.log(document.getElementById("link").id);
 
 // console.log(document.getElementById("hash").innerHTML);
 // document.getElementById("java").innerHTML="javascript is good";
