@@ -34,8 +34,8 @@ let car={
  substraction();
 //  division();
 //  multiplication();
-let name="Elvis";
-// phonecall(name);
-// phonecall("g");
+// let name="Elvis";
+// // phonecall(name);
+// // phonecall("g");
 car.drive();
 car.stop();
